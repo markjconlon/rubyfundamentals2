@@ -1,5 +1,5 @@
 def greet_backwards(name)
-  puts "Hello, #{name.reverse}! Welcome Home."
+  puts "Hello, #{name.reverse}#{name.reverse}! Welcome Home."
 end
 
 #uncomment and run script
